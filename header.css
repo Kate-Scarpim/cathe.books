@@ -22,6 +22,12 @@
   display: block;
 }
 
+.lista-menu__titulo,
+.lista-menu__item {
+  padding: 1em;
+  background-color: var(--branco);
+}
+
 .cabeçalho__menu-hamburguer {
   width: 24px;
   height: 24px;
