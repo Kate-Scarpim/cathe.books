@@ -31,7 +31,5 @@
     text-align: center;
     color: var(--branco);
     background: url(../img/Lupa.svg) no-repeat;
-    background
-
-
+    background-posicion: 1em;
   }
