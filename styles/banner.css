@@ -15,7 +15,7 @@
     margin: 1em 0;
   }
 
-  .baneer__pesquisa{
+  .banner__pesquisa{
     background-color: transparent;
     border: 1px solid var (--branco);
     color: var (--branco);
