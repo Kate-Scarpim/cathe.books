@@ -82,7 +82,7 @@
   .container__título--negrito {
     font-weight: 700;
   }
-}
+
 
 .opções{
   display: flex;
@@ -101,4 +101,14 @@
 
 .container__imagem-transparente {
   display: none;
+}
+
+.cabeçalho__menu-hamburguer {
+  display: none;
+}
+
+
+
+
+
 }
