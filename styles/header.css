@@ -79,3 +79,17 @@
     font-weight: 700;
   }
 }
+
+.opções{
+  display: flex;
+}
+
+.opções__item{
+  padding: 0 1em;
+  text-transform: uppercase;
+  list-style: none;
+}
+
+.opções__link{
+  text-decoration: none;
+}
