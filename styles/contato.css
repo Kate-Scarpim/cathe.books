@@ -1,3 +1,4 @@
+
 .contato {
     background-color: var(--branco);
     padding: 1em;
@@ -33,8 +34,9 @@
     font-family: var(--fonte-principal);
     color: var(--azul);
     background: url("../img/Email.svg") no-repeat 5%;
-    padding-left: 2em;
+    padding-left: 5em;
 }
+
 
 @media screen and (min-width: 1024px) {
     .contato {
@@ -54,11 +56,5 @@
 
     .contato__email {
         width: 30%;
-    }
-}
-
-@media screen and (min-width: 1728px) {
-    .contato {
-        padding: 3em 20vw;
     }
 }

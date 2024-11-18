@@ -2,12 +2,14 @@
    background: var(--azul-degrade);
    text-align: center;
    padding: 1em 0;
+   list-style: none; 
 }
 
 .tópicos__titulo {
    color: var(--branco);
    font-weight: 300;
    margin-bottom: 1em;
+   list-style: none; 
 }
 
 .tópicos__lista {
@@ -18,6 +20,7 @@
 
 .tópicos__item {
    margin: 2em 0.5em;
+   list-style: none; 
 }
 
 .tópicos__link {
